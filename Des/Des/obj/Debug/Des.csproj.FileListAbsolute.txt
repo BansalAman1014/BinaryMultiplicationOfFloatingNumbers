@@ -1,0 +1,6 @@
+c:\users\aman.bansal\documents\visual studio 2015\Projects\Des\Des\bin\Debug\Des.exe.config
+c:\users\aman.bansal\documents\visual studio 2015\Projects\Des\Des\obj\Debug\Des.csprojResolveAssemblyReference.cache
+c:\users\aman.bansal\documents\visual studio 2015\Projects\Des\Des\bin\Debug\Des.exe
+c:\users\aman.bansal\documents\visual studio 2015\Projects\Des\Des\bin\Debug\Des.pdb
+c:\users\aman.bansal\documents\visual studio 2015\Projects\Des\Des\obj\Debug\Des.exe
+c:\users\aman.bansal\documents\visual studio 2015\Projects\Des\Des\obj\Debug\Des.pdb
